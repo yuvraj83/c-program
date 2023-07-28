@@ -1,0 +1,1 @@
+fact = num * (fact-1);
